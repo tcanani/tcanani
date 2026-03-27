@@ -19,7 +19,7 @@ Full-suite infrastructure testing tool for AWS — security scanning, load testi
 ### [AWS Terraform Library](https://github.com/tcanani/aws-terraform-library)
 Modular IaC library with 60+ atomic modules, 10 compositions, and 2 blueprints. Tier-based system (Basic to Enterprise) with cost transparency. Published to HCP Terraform Registry. Covers compute, networking, security, data, observability, and cross-region replication.
 
-### Kastel
+### Upmetr
 Multi-tenant SaaS monitoring platform with whitelabel branding. 11 feature modules including resource discovery, uptime monitoring, cost tracking, OpenTelemetry integration, and Kubernetes monitoring. Python/FastAPI, Next.js, PostgreSQL/TimescaleDB, Redis.
 
 ### IKINVEST Voice AI
